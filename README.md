@@ -1,5 +1,5 @@
 # VirtualReality
-My project from the University Course Object Oriented Programming
+Second semester project for the University Course "Object Oriented Programming"
 
 The aim of the project was to create a real world simulator
 in which there are different life forms with different behavior.
